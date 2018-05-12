@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3089
     wikipedia: http://en.wikipedia.org/wiki/Liberty_Hyde_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26132#The-Apple-TreeThe-Open-Country-Books-No.-1
 gutenberg_issued: '2008-07-26'
 gutenberg_type: Text
 identifiers:
